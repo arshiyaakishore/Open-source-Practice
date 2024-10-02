@@ -171,7 +171,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - **To find out about how to fix a Git Conflict, go to [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
 
 
-
 ## `GSSoC24-Community`
 
 ### **Contents**
